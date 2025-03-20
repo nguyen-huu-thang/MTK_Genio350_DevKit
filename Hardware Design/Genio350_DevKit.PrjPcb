@@ -175,7 +175,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=3
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -183,7 +183,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JWHMGVXP
+DocumentUniqueId=PAYIKIGI
 
 [Document9]
 DocumentPath=eMMC.SchDoc
@@ -288,7 +288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GIMDRRES
 
 [Document15]
-DocumentPath=IT66121FN.SchDoc
+DocumentPath=RTL8201F.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1863,9 +1863,12 @@ Net7=NetName=NetJ1_1|NetColor=clRed
 Net8=NetName=NetU4_A2|NetColor=clRed
 Net9=NetName=NetU4_A5|NetColor=clBlue
 Net10=NetName=VCORE|NetColor=$0066D9FF
-Net11=NetName=VPROC|NetColor=$000099FF
-Net12=NetName=VS1|NetColor=clFuchsia
-Net13=NetName=VSYS|NetColor=clRed
+Net11=NetName=VDRAM1|NetColor=$00DCD1EA
+Net12=NetName=VDRAM2|NetColor=$00E9D2D9
+Net13=NetName=VIO18|NetColor=$00CDE5FC
+Net14=NetName=VPROC|NetColor=$000099FF
+Net15=NetName=VS1|NetColor=clFuchsia
+Net16=NetName=VSYS|NetColor=clRed
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
