@@ -984,6 +984,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGSGSNKQ
 
+[Document56]
+DocumentPath=I2C_Switch.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=35
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CAQZWEVE
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
