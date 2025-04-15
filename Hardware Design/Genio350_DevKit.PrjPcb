@@ -356,7 +356,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SLTYJLIP
 
 [Document19]
-DocumentPath=MT8365_DDR4X.SchDoc
+DocumentPath=MT8365_LPDDR4X.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -577,7 +577,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document32]
-DocumentPath=MT8365_DDR4X.Harness
+DocumentPath=MT8365_LPDDR4X.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
