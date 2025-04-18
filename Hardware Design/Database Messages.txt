@@ -1,0 +1,1334 @@
+﻿************************************************************
+       Database Update Report 18/04/2025 6:58:11 CH
+************************************************************
+
+Summary
+=======
+
+Failed to Match
+---------------
+.1, .10, .11, .12, .13, .14, .15, .16, .2, .3, .4, 
+.5, .6, .7, .8, .9, C1, C10, C100, C101, C102, C103, 
+C104, C105, C106, C107, C108, C109, C11, C110, C111, 
+C112, C113, C114, C115, C116, C117, C118, C119, C12, 
+C120, C121, C122, C123, C124, C125, C126, C127, C128, 
+C129, C13, C130, C131, C132, C133, C134, C135, C136, 
+C137, C138, C139, C14, C140, C141, C142, C143, C144, 
+C145, C146, C147, C148, C149, C15, C150, C151, C152, 
+C153, C154, C155, C156, C157, C158, C159, C16, C160, 
+C161, C162, C17, C18, C19, C191, C192, C193, C194, 
+C195, C196, C197, C198, C199, C2, C20, C200, C201, 
+C202, C203, C204, C205, C206, C207, C208, C209, C21, 
+C210, C211, C212, C213, C214, C215, C216, C217, C218, 
+C219, C22, C220, C221, C222, C223, C224, C225, C226, 
+C227, C228, C229, C23, C230, C231, C232, C233, C234, 
+C235, C236, C237, C238, C239, C24, C240, C241, C242, 
+C243, C244, C245, C246, C247, C248, C249, C25, C250, 
+C251, C252, C253, C254, C255, C256, C257, C258, C259, 
+C26, C260, C261, C262, C263, C264, C265, C266, C267, 
+C268, C269, C27, C270, C271, C272, C273, C274, C275, 
+C276, C277, C278, C279, C28, C280, C281, C282, C283, 
+C284, C285, C286, C287, C288, C289, C29, C290, C291, 
+C292, C293, C294, C295, C296, C297, C298, C299, C3, 
+C30, C300, C301, C302, C303, C304, C305, C306, C307, 
+C308, C309, C31, C310, C311, C312, C313, C314, C315, 
+C316, C317, C318, C319, C32, C320, C321, C322, C323, 
+C324, C33, C34, C35, C36, C37, C38, C39, C4, C40, 
+C41, C42, C43, C44, C45, C46, C47, C48, C49, C5, C50, 
+C51, C52, C53, C54, C55, C56, C57, C58, C59, C6, C60, 
+C61, C62, C63, C64, C65, C66, C67, C68, C69, C7, C70, 
+C71, C72, C73, C74, C75, C76, C77, C78, C79, C8, C80, 
+C81, C82, C83, C84, C85, C86, C87, C88, C89, C9, C90, 
+C91, C92, C93, C94, C95, C96, C97, C98, C99, D5, D6, 
+ESD, ESD1, ESD10, ESD11, ESD12, ESD13, ESD14, ESD15, 
+ESD16, ESD17, ESD2, ESD3, ESD4, ESD5, ESD6, ESD7, 
+ESD8, ESD9, FB1, FB2, FB3, FB4, FL1, FL2, FL3, FL4, 
+FL5, FL6, FL7, IC1, IC2, IC3A, IC3B, J1, J11, J12, 
+J13, J14, J15, J16, J17, J18, J2, J20, J3, J4, J5, 
+j6, J7, J8, J9, L1, L10, L11, L12, L13, L14, L15, 
+L16, L17, L18, L19, L2, L3, L4, L5, L6, L7, L8, L9, 
+LED1, LED10, LED11, LED12, LED13, LED14, LED15, LED16, 
+LED17, LED18, LED19, LED2, LED20, LED21, LED22, LED3, 
+LED4, LED5, LED6, LED7, LED8, LED9, MK1, MK2, MK3, 
+Q1, Q2, Q3, R1, R10, R11, R115, R116, R117, R118, 
+R119, R12, R120, R121, R122, R123, R124, R125, R126, 
+R127, R128, R129, R13, R14, R15, R16, R17, R18, R19, 
+R2, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, 
+R3, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, 
+R4, R40, R41, R42, R43, R44, R45, R46, R47, R48, R49, 
+R5, R50, R51, R52, R53, R54, R55, R56, R57, R58, R59, 
+R6, R60, R61, R62, R63, R64, R65, R66, R67, R68, R69, 
+R7, R70, R71, R72, R73, R74, R75, R76, R77, R78, R79, 
+R8, R80, R81, R82, R83, R84, R85, R86, R87, R88, R89, 
+R9, R90, R91, R92, R95, SJ1, SJ2, SJ3, SW1, SW2, SW3, 
+SW4, SW5, U10, U11, U12, U13, U14, U15, U16, U17, 
+U18, U19, U1A, U1B, U1C, U1D, U1E, U1F, U1G, U1H, 
+U1I, U1J, U20, U21, U22, U23, U24, U25, U26, U27, 
+U2A, U2B, U2C, U2D, U2E, U3, U30, U31, U32, U4A, U4B, 
+U4C, U4D, U4E, U4F, U5, U6, U7, U8, U9, X1, Y1
+
+Found Matches
+-------------
+NONE
+
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\main.SchDoc
+==========================================================================================
+
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\MT8365.SchDoc
+============================================================================================
+
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\LPDDR4X.SchDoc
+=============================================================================================
+
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\eMMC.SchDoc
+==========================================================================================
+
+Part: C153
+----------
+Part: C154
+----------
+Part: C215
+----------
+Part: C216
+----------
+Part: C217
+----------
+Part: C218
+----------
+Part: C219
+----------
+Part: C220
+----------
+Part: IC3A
+----------
+Part: IC3B
+----------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\Power.SchDoc
+===========================================================================================
+
+Part: C107
+----------
+Part: C108
+----------
+Part: ESD1
+----------
+Part: ESD2
+----------
+Part: ESD3
+----------
+Part: J9
+--------
+Part: J15
+---------
+Part: R30
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\MT6631.SchDoc
+============================================================================================
+
+Part: C90
+---------
+Part: C91
+---------
+Part: C150
+----------
+Part: C151
+----------
+Part: C152
+----------
+Part: C207
+----------
+Part: C208
+----------
+Part: C209
+----------
+Part: C210
+----------
+Part: C211
+----------
+Part: C212
+----------
+Part: C213
+----------
+Part: C214
+----------
+Part: C291
+----------
+Part: C292
+----------
+Part: C293
+----------
+Part: C294
+----------
+Part: C295
+----------
+Part: FB4
+---------
+Part: FL7
+---------
+Part: IC2
+---------
+Part: J17
+---------
+Part: J18
+---------
+Part: L11
+---------
+Part: L12
+---------
+Part: L13
+---------
+Part: L14
+---------
+Part: R75
+---------
+Part: R76
+---------
+Part: R77
+---------
+Part: R78
+---------
+Part: R79
+---------
+Part: R80
+---------
+Part: R81
+---------
+Part: R82
+---------
+Part: R83
+---------
+Part: U6
+--------
+Part: U25
+---------
+Part: U26
+---------
+Part: U27
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\JTAG_Connector.SchDoc
+====================================================================================================
+
+Part: J8
+--------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\USB.SchDoc
+=========================================================================================
+
+Part: C99
+---------
+Part: C100
+----------
+Part: C101
+----------
+Part: C102
+----------
+Part: ESD
+---------
+Part: ESD4
+----------
+Part: ESD14
+-----------
+Part: ESD15
+-----------
+Part: J1
+--------
+Part: J5
+--------
+Part: R22
+---------
+Part: R23
+---------
+Part: R127
+----------
+Part: R128
+----------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\UART.SchDoc
+==========================================================================================
+
+Part: C94
+---------
+Part: C95
+---------
+Part: C96
+---------
+Part: C97
+---------
+Part: C98
+---------
+Part: C103
+----------
+Part: C104
+----------
+Part: C105
+----------
+Part: C106
+----------
+Part: C320
+----------
+Part: C321
+----------
+Part: ESD5
+----------
+Part: ESD6
+----------
+Part: ESD7
+----------
+Part: ESD8
+----------
+Part: J2
+--------
+Part: J3
+--------
+Part: LED19
+-----------
+Part: LED20
+-----------
+Part: LED21
+-----------
+Part: LED22
+-----------
+Part: R17
+---------
+Part: R18
+---------
+Part: R19
+---------
+Part: R20
+---------
+Part: R21
+---------
+Part: R24
+---------
+Part: R25
+---------
+Part: U3
+--------
+Part: U5
+--------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\Camera.SchDoc
+============================================================================================
+
+Part: C124
+----------
+Part: C125
+----------
+Part: C126
+----------
+Part: C127
+----------
+Part: C296
+----------
+Part: C297
+----------
+Part: C298
+----------
+Part: C299
+----------
+Part: J4
+--------
+Part: J16
+---------
+Part: U8
+--------
+Part: U20
+---------
+Part: U22
+---------
+Part: U23
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\RTL8201F.SchDoc
+==============================================================================================
+
+Part: .10
+---------
+Part: .12
+---------
+Part: .15
+---------
+Part: .16
+---------
+Part: C45
+---------
+Part: C46
+---------
+Part: C47
+---------
+Part: C48
+---------
+Part: C49
+---------
+Part: C92
+---------
+Part: C93
+---------
+Part: C147
+----------
+Part: C148
+----------
+Part: C149
+----------
+Part: C288
+----------
+Part: C289
+----------
+Part: C290
+----------
+Part: C322
+----------
+Part: ESD16
+-----------
+Part: ESD17
+-----------
+Part: FB1
+---------
+Part: FB2
+---------
+Part: FB3
+---------
+Part: J11
+---------
+Part: R13
+---------
+Part: R14
+---------
+Part: R15
+---------
+Part: R16
+---------
+Part: R68
+---------
+Part: R69
+---------
+Part: R70
+---------
+Part: R71
+---------
+Part: R72
+---------
+Part: R73
+---------
+Part: R74
+---------
+Part: U7
+--------
+Part: X1
+--------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\GPIOs.SchDoc
+===========================================================================================
+
+Part: C129
+----------
+Part: C130
+----------
+Part: C300
+----------
+Part: C301
+----------
+Part: C302
+----------
+Part: C303
+----------
+Part: C304
+----------
+Part: C305
+----------
+Part: C306
+----------
+Part: C307
+----------
+Part: C308
+----------
+Part: C309
+----------
+Part: J7
+--------
+Part: U9
+--------
+Part: U10
+---------
+Part: U11
+---------
+Part: U12
+---------
+Part: U13
+---------
+Part: U24
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\MT8365_Power.SchDoc
+==================================================================================================
+
+Part: C1
+--------
+Part: C2
+--------
+Part: C3
+--------
+Part: C4
+--------
+Part: C5
+--------
+Part: C6
+--------
+Part: C7
+--------
+Part: C8
+--------
+Part: C9
+--------
+Part: C10
+---------
+Part: C11
+---------
+Part: C12
+---------
+Part: C13
+---------
+Part: C14
+---------
+Part: C15
+---------
+Part: C16
+---------
+Part: C17
+---------
+Part: C18
+---------
+Part: C19
+---------
+Part: C20
+---------
+Part: C21
+---------
+Part: C22
+---------
+Part: C23
+---------
+Part: C24
+---------
+Part: C25
+---------
+Part: C26
+---------
+Part: C27
+---------
+Part: C28
+---------
+Part: C29
+---------
+Part: C30
+---------
+Part: C31
+---------
+Part: C32
+---------
+Part: C33
+---------
+Part: C34
+---------
+Part: C35
+---------
+Part: C36
+---------
+Part: C37
+---------
+Part: C38
+---------
+Part: C39
+---------
+Part: C40
+---------
+Part: C41
+---------
+Part: C42
+---------
+Part: C43
+---------
+Part: C44
+---------
+Part: C253
+----------
+Part: C254
+----------
+Part: C255
+----------
+Part: C256
+----------
+Part: C257
+----------
+Part: C258
+----------
+Part: C259
+----------
+Part: C260
+----------
+Part: C261
+----------
+Part: C262
+----------
+Part: C263
+----------
+Part: C264
+----------
+Part: C265
+----------
+Part: C266
+----------
+Part: C267
+----------
+Part: C268
+----------
+Part: C269
+----------
+Part: C270
+----------
+Part: C271
+----------
+Part: C272
+----------
+Part: C273
+----------
+Part: C274
+----------
+Part: C275
+----------
+Part: C276
+----------
+Part: C277
+----------
+Part: C278
+----------
+Part: C279
+----------
+Part: C280
+----------
+Part: C281
+----------
+Part: C282
+----------
+Part: C283
+----------
+Part: C284
+----------
+Part: C285
+----------
+Part: C286
+----------
+Part: C287
+----------
+Part: U1A
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\MT8365_LPDDR4X.SchDoc
+====================================================================================================
+
+Part: R86
+---------
+Part: U1B
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\MT8365_eMMC.SchDoc
+=================================================================================================
+
+Part: C156
+----------
+Part: C157
+----------
+Part: C158
+----------
+Part: C159
+----------
+Part: C160
+----------
+Part: C161
+----------
+Part: C162
+----------
+Part: L16
+---------
+Part: L17
+---------
+Part: L18
+---------
+Part: L19
+---------
+Part: R87
+---------
+Part: R88
+---------
+Part: R89
+---------
+Part: R90
+---------
+Part: R91
+---------
+Part: R92
+---------
+Part: U1C
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\MT8365_Camera.SchDoc
+===================================================================================================
+
+Part: U1F
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\MT8365_AUD.SchDoc
+================================================================================================
+
+Part: MK2
+---------
+Part: MK3
+---------
+Part: R1
+--------
+Part: R125
+----------
+Part: SW4
+---------
+Part: SW5
+---------
+Part: U1E
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\MT8365_CONN.SchDoc
+=================================================================================================
+
+Part: R26
+---------
+Part: R27
+---------
+Part: R28
+---------
+Part: R29
+---------
+Part: U1G
+---------
+Part: U1D
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\MT8365_Other.SchDoc
+==================================================================================================
+
+Part: C155
+----------
+Part: R12
+---------
+Part: U1H
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\LPDDR4X_Ground.SchDoc
+====================================================================================================
+
+Part: U2A
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\LPDDR4X_Power.SchDoc
+===================================================================================================
+
+Part: C221
+----------
+Part: C222
+----------
+Part: C223
+----------
+Part: C224
+----------
+Part: C225
+----------
+Part: C226
+----------
+Part: C227
+----------
+Part: C228
+----------
+Part: C229
+----------
+Part: C230
+----------
+Part: C231
+----------
+Part: C232
+----------
+Part: C233
+----------
+Part: C234
+----------
+Part: C235
+----------
+Part: C236
+----------
+Part: C237
+----------
+Part: C238
+----------
+Part: C239
+----------
+Part: C240
+----------
+Part: U2B
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\LPDDR4X_Channel_A.SchDoc
+=======================================================================================================
+
+Part: U2D
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\LPDDR4X_Channel_B.SchDoc
+=======================================================================================================
+
+Part: U2E
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\LPDDR4X_other.SchDoc
+===================================================================================================
+
+Part: R84
+---------
+Part: R85
+---------
+Part: U2C
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\MT8365_Ground.SchDoc
+===================================================================================================
+
+Part: U1J
+---------
+Part: U1I
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\Power_Supply.SchDoc
+==================================================================================================
+
+Part: .1
+--------
+Part: .2
+--------
+Part: .3
+--------
+Part: .4
+--------
+Part: .5
+--------
+Part: .8
+--------
+Part: C51
+---------
+Part: C52
+---------
+Part: C53
+---------
+Part: C54
+---------
+Part: C55
+---------
+Part: C56
+---------
+Part: C57
+---------
+Part: C58
+---------
+Part: C59
+---------
+Part: C60
+---------
+Part: C61
+---------
+Part: C62
+---------
+Part: C63
+---------
+Part: C86
+---------
+Part: C194
+----------
+Part: C195
+----------
+Part: R4
+--------
+Part: U4A
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\BUCK.SchDoc
+==========================================================================================
+
+Part: .6
+--------
+Part: .7
+--------
+Part: .9
+--------
+Part: .11
+---------
+Part: .13
+---------
+Part: .14
+---------
+Part: C64
+---------
+Part: C65
+---------
+Part: C66
+---------
+Part: C67
+---------
+Part: C68
+---------
+Part: C69
+---------
+Part: C70
+---------
+Part: C71
+---------
+Part: C72
+---------
+Part: C73
+---------
+Part: C74
+---------
+Part: C75
+---------
+Part: C76
+---------
+Part: C77
+---------
+Part: C78
+---------
+Part: C79
+---------
+Part: L1
+--------
+Part: L2
+--------
+Part: L3
+--------
+Part: L4
+--------
+Part: L5
+--------
+Part: L6
+--------
+Part: L7
+--------
+Part: L8
+--------
+Part: L9
+--------
+Part: Q1
+--------
+Part: Q2
+--------
+Part: R5
+--------
+Part: R6
+--------
+Part: R115
+----------
+Part: R116
+----------
+Part: R117
+----------
+Part: R118
+----------
+Part: R119
+----------
+Part: R120
+----------
+Part: SJ1
+---------
+Part: SJ2
+---------
+Part: U4B
+---------
+Part: U31
+---------
+Part: U32
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\LDO.SchDoc
+=========================================================================================
+
+Part: C80
+---------
+Part: C81
+---------
+Part: C82
+---------
+Part: C83
+---------
+Part: C84
+---------
+Part: C88
+---------
+Part: C131
+----------
+Part: C133
+----------
+Part: C199
+----------
+Part: C200
+----------
+Part: C201
+----------
+Part: C202
+----------
+Part: C203
+----------
+Part: C204
+----------
+Part: C205
+----------
+Part: C206
+----------
+Part: C241
+----------
+Part: C242
+----------
+Part: C243
+----------
+Part: C244
+----------
+Part: C245
+----------
+Part: C246
+----------
+Part: C247
+----------
+Part: C248
+----------
+Part: C249
+----------
+Part: C250
+----------
+Part: C251
+----------
+Part: C252
+----------
+Part: Q3
+--------
+Part: R121
+----------
+Part: R122
+----------
+Part: R123
+----------
+Part: SJ3
+---------
+Part: U4C
+---------
+Part: U30
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\Control_Interface.SchDoc
+=======================================================================================================
+
+Part: C85
+---------
+Part: D5
+--------
+Part: D6
+--------
+Part: R2
+--------
+Part: R3
+--------
+Part: R126
+----------
+Part: SW2
+---------
+Part: SW3
+---------
+Part: U4D
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\AU.SchDoc
+========================================================================================
+
+Part: C50
+---------
+Part: C132
+----------
+Part: C135
+----------
+Part: C137
+----------
+Part: C138
+----------
+Part: C139
+----------
+Part: C140
+----------
+Part: C141
+----------
+Part: C142
+----------
+Part: C143
+----------
+Part: C144
+----------
+Part: C145
+----------
+Part: C146
+----------
+Part: C191
+----------
+Part: C192
+----------
+Part: C193
+----------
+Part: ESD9
+----------
+Part: ESD10
+-----------
+Part: ESD11
+-----------
+Part: ESD12
+-----------
+Part: ESD13
+-----------
+Part: FL1
+---------
+Part: FL2
+---------
+Part: FL3
+---------
+Part: FL4
+---------
+Part: FL5
+---------
+Part: FL6
+---------
+Part: J20
+---------
+Part: L15
+---------
+Part: MK1
+---------
+Part: R7
+--------
+Part: R64
+---------
+Part: R65
+---------
+Part: R66
+---------
+Part: R67
+---------
+Part: R124
+----------
+Part: U4E
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\RTC_Miscellaneous.SchDoc
+=======================================================================================================
+
+Part: C87
+---------
+Part: C89
+---------
+Part: R8
+--------
+Part: R9
+--------
+Part: R10
+---------
+Part: R11
+---------
+Part: U4F
+---------
+Part: Y1
+--------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\Display.SchDoc
+=============================================================================================
+
+Part: C128
+----------
+Part: j6
+--------
+Part: R61
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\AUDIO_AMP.SchDoc
+===============================================================================================
+
+Part: C118
+----------
+Part: C119
+----------
+Part: C120
+----------
+Part: C121
+----------
+Part: C122
+----------
+Part: C123
+----------
+Part: C134
+----------
+Part: C136
+----------
+Part: C323
+----------
+Part: C324
+----------
+Part: J12
+---------
+Part: J13
+---------
+Part: R53
+---------
+Part: R54
+---------
+Part: R55
+---------
+Part: R57
+---------
+Part: R58
+---------
+Part: R59
+---------
+Part: R60
+---------
+Part: R62
+---------
+Part: R63
+---------
+Part: R129
+----------
+Part: U14
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\I2C_Switch.SchDoc
+================================================================================================
+
+Part: C310
+----------
+Part: C311
+----------
+Part: C312
+----------
+Part: C313
+----------
+Part: C314
+----------
+Part: C315
+----------
+Part: C316
+----------
+Part: C317
+----------
+Part: C318
+----------
+Part: C319
+----------
+Part: J14
+---------
+Part: LED1
+----------
+Part: LED2
+----------
+Part: LED3
+----------
+Part: LED4
+----------
+Part: LED5
+----------
+Part: LED6
+----------
+Part: LED7
+----------
+Part: LED8
+----------
+Part: LED9
+----------
+Part: LED10
+-----------
+Part: LED11
+-----------
+Part: LED12
+-----------
+Part: LED13
+-----------
+Part: LED14
+-----------
+Part: LED15
+-----------
+Part: LED16
+-----------
+Part: R37
+---------
+Part: R38
+---------
+Part: R39
+---------
+Part: R40
+---------
+Part: R41
+---------
+Part: R42
+---------
+Part: R43
+---------
+Part: R44
+---------
+Part: R45
+---------
+Part: R46
+---------
+Part: R47
+---------
+Part: R48
+---------
+Part: R49
+---------
+Part: R50
+---------
+Part: R51
+---------
+Part: R52
+---------
+Part: R56
+---------
+Part: R95
+---------
+Part: U16
+---------
+Part: U17
+---------
+Part: U18
+---------
+Part: U19
+---------
+Queries for Sheet: D:\mạch\Altium Designer\MTK_Genio350_DevKit\Hardware Design\Charger_boost_LDO.SchDoc
+=======================================================================================================
+
+Part: C109
+----------
+Part: C110
+----------
+Part: C111
+----------
+Part: C112
+----------
+Part: C113
+----------
+Part: C114
+----------
+Part: C115
+----------
+Part: C116
+----------
+Part: C117
+----------
+Part: C196
+----------
+Part: C197
+----------
+Part: C198
+----------
+Part: IC1
+---------
+Part: L10
+---------
+Part: LED17
+-----------
+Part: LED18
+-----------
+Part: R31
+---------
+Part: R32
+---------
+Part: R33
+---------
+Part: R34
+---------
+Part: R35
+---------
+Part: R36
+---------
+Part: SW1
+---------
+Part: U15
+---------
+Part: U21
+---------
